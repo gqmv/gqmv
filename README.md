@@ -5,4 +5,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gqmv&show_icons=true&theme=dark&count_private=true" />
 </a>
 
-<img align="center" src="https://tryhackme-badges.s3.amazonaws.com/gabrielqmv.png" />
+![Tryhackme](https://tryhackme-badges.s3.amazonaws.com/gabrielqmv.png)
