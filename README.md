@@ -4,5 +4,3 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gqmv&show_icons=true&theme=dark&count_private=true" />
 </a>
-
-![Tryhackme](https://tryhackme-badges.s3.amazonaws.com/gabrielqmv.png)
