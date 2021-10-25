@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-Advanced-black)
 ![C++](https://img.shields.io/badge/C++-Intermediate-orange)
 ![C++](https://img.shields.io/badge/C-Intermediate-orange)
+![Assembly](https://img.shields.io/badge/Assembly-Intermediate-orange)
 ![Django](https://img.shields.io/badge/Django-Begginer-green)
 ![Java](https://img.shields.io/badge/Java-begginer-green)
 
@@ -21,4 +22,6 @@ My motto is: Sometimes you're so eager to get to the top of the mountain that yo
 
 ### 📚 Looking for my Resume? E-Mail me!
 
-![Gabriel Vieira's Github Stats](https://github-readme-stats.vercel.app/api?username=gqmv&show_icons=true&hide_border=true)
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=gqmv&show_icons=true&hide_border=true"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gqmv&hide_border=true" /> |
+| ------------- | ------------- |
+
