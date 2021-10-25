@@ -1,4 +1,4 @@
-# Hello, I'm Federico Dondi 👋
+# Hello, I'm Gabriel Vieira 👋
 
 ![Python](https://img.shields.io/badge/Python-Advanced-black)
 ![C++](https://img.shields.io/badge/C++-Intermediate-orange)
@@ -21,4 +21,4 @@ My motto is: Sometimes you're so eager to get to the top of the mountain that yo
 
 ### 📚 Looking for my Resume? E-Mail me!
 
-![Federico Dondi's github stats](https://github-readme-stats.vercel.app/api?username=gqmv&show_icons=true&hide_border=true)
+![Gabriel Vieira's Github Stats](https://github-readme-stats.vercel.app/api?username=gqmv&show_icons=true&hide_border=true)
