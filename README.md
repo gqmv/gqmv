@@ -18,6 +18,7 @@ My motto is: Sometimes you're so eager to get to the top of the mountain that yo
 
 - GitHub: [Click me](https://github.com/gqmv/)
 - LinkedIn: [Click me](https://www.linkedin.com/in/gabriel-queiroz-monteiro-vieira-9738a61a2/)
+- Instagram: [Click me](https://www.instagram.com/gabriel.qmv/)
 - E-mail: gqmv@cin.ufpe.br (University email) / gabriel.qmv@icloud.com (Personal Email)
 
 ### 📚 Looking for my Resume? E-Mail me!
