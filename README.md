@@ -13,6 +13,9 @@ My motto is: Sometimes you're so eager to get to the top of the mountain that yo
 
 - 🔭 Currently pursuing a Bachelor's degree in **Computer Science** at UFPE
 - ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.java`
+- 🏠 I've lived at Recife (Current), Lisbon and Oxford :)
+- :brazil: / :us: : I speak Portuguese (Natively) and English (Fluently)
+- Feel free to reach out, let's have a chat!
 
 ### 📬 Get in Touch
 
