@@ -8,7 +8,7 @@
 ![Java](https://img.shields.io/badge/Java-begginer-green)
 
 
-Computer Science student at the [Federal University of Pernambuco](https://portal.cin.ufpe.br/).
+Computer Science student at the [Federal University of Pernambuco](https://portal.cin.ufpe.br/) and Software Engineering Intern at [CI&T](https://ciandt.com/)
 My motto is: Sometimes you're so eager to get to the top of the mountain that you don't even realise that there was an elevator right behind you. (Basically means: always plan your approach before trying to solve a problem.)
 
 - 🔭 Currently pursuing a Bachelor's degree in **Computer Science** at UFPE
