@@ -7,6 +7,7 @@
 
 Computer Science student at the [Federal University of Pernambuco](https://portal.cin.ufpe.br/) and Founding Software Engineer at [Ward Analytics](https://www.wardanalytics.net/)
 
+
 My motto is: Sometimes you're so eager to get to the top of the mountain that you don't even realise that there was an elevator right behind you. (Basically means: always plan your approach before trying to solve a problem.)
 
 - 🔭 Currently pursuing a Bachelor's degree in **Computer Science** at [UFPE](https://portal.cin.ufpe.br/)
