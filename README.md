@@ -1,11 +1,8 @@
 # Hello, I'm Gabriel Vieira 👋
 
 ![Python](https://img.shields.io/badge/Python-Advanced-black)
-![C++](https://img.shields.io/badge/C++-Intermediate-orange)
-![C++](https://img.shields.io/badge/C-Intermediate-orange)
-![Assembly](https://img.shields.io/badge/Assembly-Intermediate-orange)
-![Django](https://img.shields.io/badge/Django-Begginer-green)
-![Java](https://img.shields.io/badge/Java-begginer-green)
+![Django](https://img.shields.io/badge/Django-Advanced-black)
+![Flask](https://img.shields.io/badge/Flask-Avanced-black)
 
 
 Computer Science student at the [Federal University of Pernambuco](https://portal.cin.ufpe.br/) and Software Engineering Intern at [CI&T](https://ciandt.com/)
